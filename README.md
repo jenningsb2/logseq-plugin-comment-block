@@ -2,6 +2,9 @@
 
 For building an automatic comment history for Logseq! You can comment any block and show the connected history on journal page, current page, block ref sidebar and "Comments" page.
 
+![logseq-comment-block-demo-high-quality](https://user-images.githubusercontent.com/29644050/144450634-ccd0b5c3-a55a-42a0-929f-284e62a6b219.gif)
+
+
 ## Why need this
 
 If you have a long term plan, you may need to write down something about it day by day, use this way, you can keep your todo list clean and the progress connected.
@@ -30,6 +33,10 @@ If you have a long term plan, you may need to write down something about it day 
 
 * Trigger `Comment block` from block contextual menu.
 * Trigger `/comment` from block slash command.
+
+## Demo
+
+https://www.youtube.com/watch?v=TPP2ejiuk-g
 
 ## CAUTION
 
